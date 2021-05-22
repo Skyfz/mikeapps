@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Michael Pretorius",
+    "description":"Innovation of Technology has always been our best chance at Adaption.",
+    "bio":"I am a hard working individual that is comitted to the goals of a organization aswell as new challenges. Adapting to new technologies ,learning them within a moments notice additionaly , along with some out of the box methods. Above all a great team Player & Leader ready to go",
+    "contactmessage":"Fill the forms below and We'll get back to you as soon as possible.",
+    "email": "michael@alleyroads.co.za",
+    "phone": "072-828-8471",
+    "Skypoint":"https://skypoint.ml",
+    "23 inc":"https://bit.ly/23inc",
+    "address":{
+      "street":"Beach Rd",
+      "city":"Gqeberha,",
+      "state":"Eastern Cape",
+      "zip": "6001"
+    },
+    "website": "http://mikeapps.co.za",
+    "resumedownload":"???",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mikes.ap.161/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/mikesap34",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mike-adrox-060b5b168/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/michael.pretorius/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Skyfz",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I Develop and Deploy full Stack Web3 applications part time while running a Aerial photography hustle all while studying Mechatronics",
+    "education":[
+      {
+        "school":"Hoërskool Birchleigh",
+        "degree":"Matric",
+        "graduated":"2019",
+        "description":"Top Ten 2017-2018 | First Team Cricket Captian 2018-2019 | IT Department & Sound/Lighting Assistant | Prominant Culture figure , providing entertainment oppurtunities for student's beyond school standards"
+      },
+      {
+        "school":"Nelson Mandela University ",
+        "degree":"Bachelor of Engineering - Mechatronics",
+        "graduated":"2020 - Present",
+        "description":"Developing crucial engineering skills to become a sustianable & renewable forward thinking inventor of the future"
+      }
+    ],
+    "work":[
+      {
+        "company":"Alley Roads ",
+        "title":"Aerial Property Surveyer",
+        "years":"2019 - Present",
+        "description":"Provided Services which included: Traveling to - and from selected sites , capturing photo’s from strategic points and formating shoot reports for marketing and surveying purposes."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"52%"
+      },
+      {
+        "name":"Javascript / HTML / CSS",
+        "level":"77%"
+      },
+      {
+        "name":"Autodesk",
+        "level":"65%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"92%"
+      },
+      {
+        "name":"FL Studio",
+        "level":"68%"
+      },
+      {
+        "name":"C",
+        "level":"59%"
+      },
+      {
+        "name":"Solidity",
+        "level":"46%"
+      },
+      {
+        "name":"SQL / Databases",
+        "level":"38%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"NFT Music Streaming",
+        "category":"Next Generation NFT Music Streaming platform",
+        "image":"01.jpg",
+        "url":"https://23inc.bubbleapps.io"
+      }
+    ]
+  }
+}
