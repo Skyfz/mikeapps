@@ -182,9 +182,9 @@ ul#nav li.current a { color: rgb(59, 185, 133); }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #02030c;
    padding-top: 96px;
-   padding-bottom: 66px;
+   padding-bottom: 60px;
    overflow: hidden;
 }
 
@@ -209,11 +209,10 @@ ul#nav li.current a { color: rgb(59, 185, 133); }
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
-   padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
-   margin-top: 6px;
+   margin-top: 12px;
    background: #39b87d;
    border-radius: 6px;
 }
@@ -427,12 +426,14 @@ ul#nav li.current a { color: rgb(59, 185, 133); }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 36px; margin-right: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
    border-radius: 6px;
+   width: 240px;
+   height: 180px;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -490,7 +491,7 @@ ul#nav li.current a { color: rgb(59, 185, 133); }
    margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
-   vertical-align: bottom;
+   vertical-align: top;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {

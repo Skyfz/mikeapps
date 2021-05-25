@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Michael Pretorius",
-    "description":"Innovation of Technology has always been our best chance at Adaption.",
-    "bio":"I am a hard working individual that is comitted to the goals of a organization aswell as new challenges. Adapting to new technologies ,learning them within a moments notice additionaly , along with some out of the box methods. Above all a great team Player & Leader ready to go",
-    "contactmessage":"Fill the forms below and We'll get back to you as soon as possible.",
+    "description":"Blockchain , Robotics , Ecommerce",
+    "bio":"I am a hard-working individual, a great team player & a natural eader. Actively committed to the goals and morals of the organization I represent, new challenges continue to shape and mould me into a more creative and efficient engineer. Adapting to new technologies is my speciality, I always incorporate out of the box methods.",
+    "contactmessage":"Fill the forms below and I'll get back to you as soon as possible.",
     "email": "michael@alleyroads.co.za",
     "phone": "072-828-8471",
     "Skypoint":"https://skypoint.ml",
@@ -15,7 +15,7 @@
       "zip": "6001"
     },
     "website": "http://mikeapps.co.za",
-    "resumedownload":"???",
+    "resumedownload":"cv.pdf",
     "social":[
       {
         "name":"facebook",
@@ -45,27 +45,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"I Develop and Deploy full Stack Web3 applications part time while running a Aerial photography hustle all while studying Mechatronics",
+    "skillmessage":"Develop and deploy full-stack Web3 applications part-time. Aerial photography. Bachelor of Engineering - Mechatronics.",
     "education":[
       {
         "school":"Hoërskool Birchleigh",
         "degree":"Matric",
         "graduated":"2019",
-        "description":"Top Ten 2017-2018 | First Team Cricket Captian 2018-2019 | IT Department & Sound/Lighting Assistant | Prominant Culture figure , providing entertainment oppurtunities for student's beyond school standards"
+        "description":"Top Ten 2017-2018 | First Team Cricket Captian 2018-2019 | IT Department & Sound/Lighting Assistant | Prominant Culture figure , providing entertainment oppurtunities for student's beyond school standards."
       },
       {
         "school":"Nelson Mandela University ",
         "degree":"Bachelor of Engineering - Mechatronics",
         "graduated":"2020 - Present",
-        "description":"Developing crucial engineering skills to become a sustianable & renewable forward thinking inventor of the future"
+        "description":"Developing crucial engineering skills to become a sustainable & renewable forward-thinking inventor of the future. \n Mechatronics is an interdisciplinary branch of engineering that focuses on the engineering of electronic, electrical and mechanical engineering systems, and also includes a combination of robotics, electronics, computer, telecommunications, systems, control, and product engineering"
       }
     ],
     "work":[
       {
         "company":"Alley Roads ",
-        "title":"Aerial Property Surveyer",
+        "title":"Aerial Property Surveyor",
         "years":"2019 - Present",
-        "description":"Provided Services which included: Traveling to - and from selected sites , capturing photo’s from strategic points and formating shoot reports for marketing and surveying purposes."
+        "description":"Provided Services which included: Traveling to & from selected sites | Capturing photo’s from strategic points | Formating shoot reports for marketing and surveying purposes."
       }
     ],
     "skills":[
@@ -106,10 +106,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"NFT Music Streaming",
+        "title":"23inc NFT Music Streaming",
         "category":"Next Generation NFT Music Streaming platform",
         "image":"01.jpg",
         "url":"https://23inc.bubbleapps.io"
+      },
+      {
+        "title":"Skypoint Aerial Photography",
+        "category":"Best Drone Photo and Videography South Africa",
+        "image":"02.jpg",
+        "url":"https://skypoint.ml"
+      },
+      {
+        "title":"Flextek Ecommerce",
+        "category":"South Africa online store featuring electronic products",
+        "image":"03.jpg",
+        "url":"https://flextek.co.za"
       }
     ]
   }
