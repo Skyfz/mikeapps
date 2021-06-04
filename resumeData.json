@@ -2,7 +2,7 @@
   "main": {
     "name":"Michael Pretorius",
     "description":"Blockchain , Robotics , Ecommerce",
-    "bio":"I am a hard-working individual, a great team player & a natural eader. Actively committed to the goals and morals of the organization I represent, new challenges continue to shape and mould me into a more creative and efficient engineer. Adapting to new technologies is my speciality, I always incorporate out of the box methods.",
+    "bio":"I am a persistent - dedicated individual, an easy team player & a natural leader which is actively committed to the goals and morals of the organization I represent and progressive on new frontiers. Adapting to new technologies is my speciality, Always incorporating out of the box methods. Leisure activities include cricket and a various range of sports including athletics.I aim to find the opportunity to gain more experience and prove myself to the provider with diligent and perseverant work regardless of the expectation.",
     "contactmessage":"Fill the forms below and I'll get back to you as soon as possible.",
     "email": "michael@alleyroads.co.za",
     "phone": "072-828-8471",
@@ -51,7 +51,7 @@
         "school":"Hoërskool Birchleigh",
         "degree":"Matric",
         "graduated":"2019",
-        "description":"Top Ten 2017-2018 | First Team Cricket Captian 2018-2019 | IT Department & Sound/Lighting Assistant | Prominant Culture figure , providing entertainment oppurtunities for student's beyond school standards."
+        "description":"Academic Top 10 2016 - 2018 | Athletics Reccomendatoin 2019 | First team cricket captain & recommendation for honours | Academic Honours 2019 | Best Performance: EGD 84% | IT Department & Sound / Lighting | Culture figure, Involvement merit | Gauteng Northern Suburbs Cricket 2012 - 2013 | AP Mathematics 2017 - 2018| South African Rifles Association Member 2015"
       },
       {
         "school":"Nelson Mandela University ",
@@ -65,12 +65,12 @@
         "company":"Alley Roads ",
         "title":"Aerial Property Surveyor",
         "years":"2019 - Present",
-        "description":"Provided Services which included: Traveling to & from selected sites | Capturing photo’s from strategic points | Formating shoot reports for marketing and surveying purposes."
+        "description":"Provided Services which included: Travelling to & from selected sites | Capturing photos using a drone for reports | Compile, edit and format reports regularly | Compile marketing material for advertising purposes | Surveying techniques provided | ICT Infrastructure development and maintenance | Reference: AlleyRoads PTY LTD, Director: 082-497-8470 | Reason for Leaving: Freelance position, seeking permanent employment"
       }
     ],
     "skills":[
       {
-        "name":"Photoshop",
+        "name":"Adobe Suite Products",
         "level":"52%"
       },
       {
@@ -78,7 +78,7 @@
         "level":"77%"
       },
       {
-        "name":"Autodesk",
+        "name":"Autodesk Suite",
         "level":"65%"
       },
       {
@@ -119,7 +119,7 @@
       },
       {
         "title":"Flextek Ecommerce",
-        "category":"South Africa online store featuring electronic products",
+        "category":"(currently offline)  South African online store featuring electronic products",
         "image":"03.jpg",
         "url":"https://flextek.co.za"
       }
